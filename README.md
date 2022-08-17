@@ -48,7 +48,7 @@ let n = Math.round(Math.random() * (500 - 100) + 100); // creates a random numbe
 
 2. Create a `for` loop that iterates from 0 to n
 3. If your current iteration is equal to `value`, then print "Found value!", and `break` out of the loop
-4. If you do not ever find the value and break out of the loop, then after the loop is finished, print "Did not find value"
+4. If you do not ever find the value and break out of the loop, then after the loop is finished, print "Did not find value" == 
 
 ## Exercise 5: Customized FIZZBUZZ
 
